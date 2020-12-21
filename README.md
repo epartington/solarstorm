@@ -24,3 +24,6 @@ https://www.paloaltonetworks.com/company/press/2020/palo-alto-networks-launches-
 
 https://www.cyberthreatalliance.org/cta-members-respond-to-ongoing-solarwinds-incident/
 
+
+https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS
+
